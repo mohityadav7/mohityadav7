@@ -1,11 +1,6 @@
 ### Hi there, I'm [Mohit Yadav][website] 👋
 
-## I'm a noob programmer
-- 🔭 I’m currently working as a Software Engineer at Samsung Noida
-- 🌱 I’m currently learning Android and ML
-- 🥅 2021 Goals: Learn, learn, and learn!
-
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="mohityadav.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="_mohit_yadav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
