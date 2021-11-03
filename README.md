@@ -12,6 +12,7 @@
 --- -->
 
 <img align="left" alt="mohityadav7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohityadav7&show_icons=true&hide_border=true" />
+<br />
 <img align="left" alt="mohityadav7's Programming Language Stats for GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohityadav7&layout=compact" />
 
 [website]: https://mohityadav.me
